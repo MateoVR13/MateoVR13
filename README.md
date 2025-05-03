@@ -5,7 +5,7 @@
 - 🎓 Final year Software Engineering student
 - 📊 Focused on Data Science and its applications, specially in the financial sector
 - 💻 Skilled in Python, SQL and R programming
-- 📈 Experienced with data analysis and visualization libraries
+- 📈 Experienced with machine learning, data analysis and visualization libraries
 - 🔭 Currently exploring financial data applications
 - 🌱 Always learning new data science techniques and tools
 <div align="center">
