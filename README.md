@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hello, I'm Mateo Vergara Roa 👋
 
-<!--
-**MateoVR13/MateoVR13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="480" />
+</div>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Final year Systems Engineering student
+- 📊 Focused on Data Science and its applications in the financial sector
+- 💻 Skilled in Python, SQL and R programming
+- 📈 Experienced with data analysis and visualization libraries
+- 🔭 Currently exploring financial data applications
+- 🌱 Always learning new data science techniques and tools
+
+## 🚀 Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+## 💼 Skills
+
+- **Programming Languages**: Python, SQL, R
+- **Data Analysis**: Pandas, NumPy, SciPy, Statsmodels
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, ggplot2
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Financial Analysis**: Time Series Analysis, Risk Modeling, Financial Forecasting
+- **Database Management**: PostgreSQL, MySQL, SQLite
+- **Tools**: Jupyter, Git, Power BI, Tableau
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateoVR13&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoVR13&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MateoVR13&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="MateoVR13" />
+</div>
+
+## 📈 Contribution Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateoVR13&theme=blue-green" alt="MateoVR13" />
+</div>
+
+<!-- PROFILE VIEWS -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MateoVR13&label=Profile%20views&color=0e75b6&style=flat" alt="MateoVR13" /> </p>
