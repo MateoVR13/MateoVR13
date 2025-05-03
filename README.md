@@ -32,7 +32,7 @@
 - **Data Analysis**: Pandas, NumPy, SciPy, Statsmodels
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, ggplot2
 - **Machine Learning**: PyTorch, Scikit-learn, TensorFlow, Keras
-- Statistics: Hypothesis Testing, Regression Analysis, Probability Distributions, Bayesian Methods
+- **Statistics**: Hypothesis Testing, Regression Analysis, Probability Distributions, Bayesian Methods
 - **Financial Analysis**: Time Series Analysis, Risk Modeling, Financial Forecasting
 - **Database Management**: PostgreSQL, MySQL, SQLite
 
