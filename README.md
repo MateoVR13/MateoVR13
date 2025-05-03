@@ -1,7 +1,7 @@
 # Hello, I'm Mateo Vergara Roa 👋
 
 <div align="center">
-  <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif" height="400" />
+  <img src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif"/>
 </div>
 
 ## 👨‍💻 About Me
