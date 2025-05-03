@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final year Systems Engineering student
-- 📊 Focused on Data Science and its applications in the financial sector
+- 🎓 Final year Software Engineering student
+- 📊 Focused on Data Science and its applications, specially in the financial sector
 - 💻 Skilled in Python, SQL and R programming
 - 📈 Experienced with data analysis and visualization libraries
 - 🔭 Currently exploring financial data applications
