@@ -33,10 +33,10 @@
 - **Programming Languages**: Python, SQL, R
 - **Data Analysis**: Pandas, NumPy, SciPy, Statsmodels
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, ggplot2
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Machine Learning**: PyTorch, Scikit-learn, TensorFlow, Keras
+- Statistics: Hypothesis Testing, Regression Analysis, Probability Distributions, Bayesian Methods
 - **Financial Analysis**: Time Series Analysis, Risk Modeling, Financial Forecasting
 - **Database Management**: PostgreSQL, MySQL, SQLite
-- **Tools**: Jupyter, Git, Power BI, Tableau
 
 ## 📊 GitHub Statistics
 
