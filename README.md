@@ -13,15 +13,14 @@
 </div>
 
 ## 🚀 Languages and Tools
-
-***<p style="text-align:center;">Languages</p>***
+### Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/255832/sql.svg" alt = "sql" width="40" height="40"/>
 </p>
 
-**<p style="text-align:center;">Libraries and Tools</p>**
+### Libraries and Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
