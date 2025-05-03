@@ -1,9 +1,5 @@
 # Hello, I'm Mateo Vergara Roa 👋
 
-<div align="center">
-  <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif"/>
-</div>
-
 ## 👨‍💻 About Me
 
 - 🎓 Final year Software Engineering student
@@ -12,6 +8,9 @@
 - 📈 Experienced with data analysis and visualization libraries
 - 🔭 Currently exploring financial data applications
 - 🌱 Always learning new data science techniques and tools
+<div align="center">
+  <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif"/>
+</div>
 
 ## 🚀 Languages and Tools
 
