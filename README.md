@@ -1,7 +1,7 @@
 # Hello, I'm Mateo Vergara Roa 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif"/>
+  <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif"/>
 </div>
 
 ## 👨‍💻 About Me
