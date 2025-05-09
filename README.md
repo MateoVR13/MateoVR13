@@ -1,4 +1,4 @@
-# Hello, I'm Mateo Vergara Roa 👋
+# Hello, I'm Mateo Vergara 👋
 
 ## Experience
 Global Vice-Chair of Predictive Insight Alignment for Cross-Functional Synergistic Intelligence in Scalable Data-Driven 
