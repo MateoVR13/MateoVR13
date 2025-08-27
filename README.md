@@ -8,15 +8,11 @@
 
 - 🎓 Final year Software Engineering student
 
-- 📊 Focused on Data Science and its applications, specially in the financial sector
+- 📊 Focused on Data Science and its applications, specially in the agriculte sector
 
-- 💻 Skilled in Python, SQL and R programming
+- 💻 Skilled in Python and SQL 
 
 - 📈 Experienced with machine learning, data analysis and visualization libraries
-
-- 🔭 Currently exploring financial data applications
-
-- 🌱 Always learning new data science techniques and tools
 
 <div align="center">
 
@@ -79,8 +75,6 @@
 
 - **Statistics**: Hypothesis Testing, Regression Analysis, Probability Distributions, Bayesian Methods
 
-- **Financial Analysis**: Time Series Analysis, Risk Modeling, Financial Forecasting
-
 - **Database Management**: PostgreSQL, MySQL, SQLite
 
 
@@ -96,33 +90,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoVR13&layout=compact&langs_count=7&theme=blue-green"/>
 
 </div>
-
-
-
-## 🏆 GitHub Trophies
-
-
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=MateoVR13&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="MateoVR13" />
-
-</div>
-
-
-
-## 📈 Contribution Stats
-
-
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MateoVR13&theme=blue-green" alt="MateoVR13" />
-
-</div>
-
-
-
-<!-- PROFILE VIEWS -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MateoVR13&label=Profile%20views&color=0e75b6&style=flat" alt="MateoVR13" /> </p>
