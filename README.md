@@ -5,10 +5,6 @@ Hello, I'm Mateo Vergara Roa 👋
 
 🛠️ Data Engineer focused on scalable data pipelines, ETL processes, and analytics solutions
 
-📊 Passionate about Data Science applications, especially in the agriculture sector
-
-💻 Skilled in Python and SQL
-
 📈 Experienced with machine learning, data analysis, and data visualization tools
 
 <div align="center"> <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif"/> </div>
@@ -38,10 +34,6 @@ Hola, soy Mateo Vergara Roa 👋
 🎓 Ingeniero de Sistemas
 
 🛠️ Data Engineer especializado en pipelines de datos escalables, procesos ETL y soluciones basadas en analítica
-
-📊 Interesado en el uso de la ciencia de datos, especialmente en el sector agrícola
-
-💻 Dominio de Python y SQL
 
 📈 Experiencia en machine learning, análisis de datos y herramientas de visualización
 
