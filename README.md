@@ -1,57 +1,103 @@
-Hello, I'm Mateo Vergara Roa 👋
-👨‍💻 About Me
+# 👋 Mateo Vergara Roa
 
-🎓 Software Engineer
+<div align="center">
+  <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif" width="90%"/>
+</div>
 
-🛠️ Data Engineer focused on scalable data pipelines, ETL processes, and analytics solutions
+---
 
-📈 Experienced with machine learning, data analysis, and data visualization tools
+# 🌐 English Version
 
-<div align="center"> <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif"/> </div>
-🚀 Languages and Tools
-<p style="text-align:center;">Languages</p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/> </p> <p style="text-align:center;">Libraries and Tools</p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="plotly" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
-💼 Skills
+## 👨‍💻 About Me
 
-Programming Languages: Python, SQL, R
+- 🎓 **Software Engineer**  
+- 🛠️ **Data Engineer**, focused on scalable data pipelines, ETL processes, and modern data architectures  
+- 📊 Passionate about applying Data Science in real-world scenarios, especially in agriculture  
+- 💻 Strong experience with **Python** and **SQL**  
+- 📈 Skilled in machine learning, data analysis, and visualization  
 
-Data Engineering: ETL pipelines, data modeling, workflow orchestration, batch & streaming systems
+---
 
-Data Analysis: Pandas, NumPy, SciPy, Statsmodels
+## 🚀 Technologies
 
-Data Visualization: Matplotlib, Seaborn, Plotly, ggplot2
+### **Languages**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" />
+  <img src="https://www.svgrepo.com/show/255832/sql.svg" width="45" />
+</div>
 
-Machine Learning: PyTorch, Scikit-learn, TensorFlow, Keras
+### **Libraries & Tools**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="45"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+</div>
 
-Statistics: Hypothesis Testing, Regression Analysis, Probability Distributions, Bayesian Methods
+---
 
-Databases: PostgreSQL, MySQL, SQLite
+## 💼 Skills
 
+- **Programming:** Python, SQL, R  
+- **Data Engineering:** ETL pipelines, data modeling, workflow orchestration, batch & streaming systems  
+- **Data Analysis:** Pandas, NumPy, SciPy, Statsmodels  
+- **Visualization:** Plotly, Matplotlib, Seaborn, ggplot2  
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Keras  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Statistics:** Hypothesis testing, regression, probability distributions, Bayesian methods  
 
+---
 
-Hola, soy Mateo Vergara Roa 👋
-👨‍💻 Sobre mí
+# 🇪🇸 Versión en Español
 
-🎓 Ingeniero de Sistemas
+## 👨‍💻 Sobre mí
 
-🛠️ Data Engineer especializado en pipelines de datos escalables, procesos ETL y soluciones basadas en analítica
+- 🎓 **Ingeniero de Software**  
+- 🛠️ **Data Engineer**, especializado en pipelines de datos, procesos ETL y arquitecturas modernas de datos  
+- 📊 Interesado en aplicaciones reales de ciencia de datos, especialmente en el sector agrícola  
+- 💻 Amplia experiencia con **Python** y **SQL**  
+- 📈 Conocimientos sólidos en machine learning, análisis y visualización de datos  
 
-📈 Experiencia en machine learning, análisis de datos y herramientas de visualización
+---
 
-<div align="center"> <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif"/> </div>
-🚀 Lenguajes y Herramientas
-<p style="text-align:center;">Lenguajes</p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/> </p> <p style="text-align:center;">Librerías y Herramientas</p> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" alt="plotly" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
-💼 Habilidades
+## 🚀 Tecnologías
 
-Lenguajes de Programación: Python, SQL, R
+### **Lenguajes**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" />
+  <img src="https://www.svgrepo.com/show/255832/sql.svg" width="45" />
+</div>
 
-Data Engineering: pipelines ETL, modelado de datos, orquestación de flujos, sistemas batch & streaming
+### **Librerías y Herramientas**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="45"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Ploty.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+</div>
 
-Análisis de Datos: Pandas, NumPy, SciPy, Statsmodels
+---
 
-Visualización: Matplotlib, Seaborn, Plotly, ggplot2
+## 💼 Habilidades
 
-Machine Learning: PyTorch, Scikit-learn, TensorFlow, Keras
+- **Lenguajes:** Python, SQL, R  
+- **Data Engineering:** pipelines ETL, modelado de datos, orquestación, sistemas batch y streaming  
+- **Análisis de Datos:** Pandas, NumPy, SciPy, Statsmodels  
+- **Visualización:** Plotly, Matplotlib, Seaborn, ggplot2  
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Keras  
+- **Bases de Datos:** PostgreSQL, MySQL, SQLite  
+- **Estadística:** pruebas de hipótesis, regresión, distribuciones, métodos bayesianos  
 
-Estadística: pruebas de hipótesis, análisis de regresión, distribuciones de probabilidad, métodos bayesianos
+---
 
-Bases de Datos: PostgreSQL, MySQL, SQLite
+<div align="center">
+  <h3>Thanks for visiting! / ¡Gracias por pasar!</h3>
+</div>
