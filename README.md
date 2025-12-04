@@ -12,7 +12,7 @@
 
 - 🎓 **Software Engineer**  
 - 🛠️ **Data Engineer**, focused on scalable data pipelines, ETL processes, and modern data architectures  
-- 📊 Passionate about applying Data Science in real-world scenarios, especially in agriculture  
+- 📊 Passionate about applying Data Science in real-world scenarios
 - 💻 Strong experience with **Python** and **SQL**  
 - 📈 Skilled in machine learning, data analysis, and visualization  
 
@@ -58,7 +58,7 @@
 
 - 🎓 **Ingeniero de Software**  
 - 🛠️ **Data Engineer**, especializado en pipelines de datos, procesos ETL y arquitecturas modernas de datos  
-- 📊 Interesado en aplicaciones reales de ciencia de datos, especialmente en el sector agrícola  
+- 📊 Interesado en aplicaciones reales de ciencia de datos
 - 💻 Amplia experiencia con **Python** y **SQL**  
 - 📈 Conocimientos sólidos en machine learning, análisis y visualización de datos  
 
