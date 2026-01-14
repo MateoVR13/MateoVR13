@@ -1,7 +1,7 @@
 # 👋 Mateo Vergara Roa
 
 <div align="center">
-  <img src="[https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif](https://ceitech.cloud/static/PFPMVR.png)" width="90%"/>
+  <img src="https://ceitech.cloud/static/PFPMVR.png" width="90%"/>
 </div>
 
 ---
@@ -54,7 +54,7 @@
 
 ---
 
-## 💼 Core Skills (Data Engineer Oriented)
+## 💼 Core Skills
 
 - **Programming:** Python (data processing, scripting), SQL (complex queries, joins, aggregation)  
 - **Data Engineering:**  
@@ -121,7 +121,7 @@
 
 ---
 
-## 💼 Habilidades Clave (Enfoque Data Engineer)
+## 💼 Habilidades Clave
 
 - **Programación:** Python, SQL  
 - **Ingeniería de Datos:** pipelines ETL/ELT, limpieza y transformación de datos, modelado relacional  
