@@ -96,7 +96,7 @@
 
 ## 💼 Core Skills (Data Engineer Oriented)
 
-- **Programming:** Python (data processing, automation), SQL (joins, aggregations, analytics queries)  
+- **Programming:** Python, SQL
 - **Data Engineering:**  
   - ETL / ELT pipeline development  
   - Batch-oriented data processing  
@@ -104,9 +104,9 @@
   - Relational data modeling  
 - **Big Data:** Apache Spark, PySpark, Spark SQL  
 - **Orchestration:** Apache Airflow (DAGs, scheduling, dependencies)  
-- **Transformations:** dbt (analytics engineering mindset)  
+- **Transformations:** dbt  
 - **Databases:** PostgreSQL, MySQL, SQLite  
-- **Cloud Fundamentals:** AWS / GCP (storage & compute concepts)  
+- **Cloud Fundamentals:** AWS / GCP  
 - **ML Support:** feature engineering, dataset preparation, reproducible pipelines  
 - **Version Control:** Git, GitHub  
 
@@ -174,7 +174,7 @@
 
 ---
 
-## 💼 Habilidades Clave (Enfoque Data Engineer)
+## 💼 Habilidades Clave
 
 - **Programación:** Python, SQL  
 - **Ingeniería de Datos:** pipelines ETL/ELT, procesamiento batch, modelado relacional  
