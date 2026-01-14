@@ -29,26 +29,40 @@
 
 ## 🚀 Technologies
 
-### **Languages**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-  <img src="https://www.svgrepo.com/show/255832/sql.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" />
-</div>
+🔧 Data Engineering Stack (Focused)
+Languages
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" /> <img src="https://www.svgrepo.com/show/255832/sql.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" /> </div>
+Data Engineering & Processing
+<div align="center"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Databricks_Logo.png" width="90"/> <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="45"/> </div>
+Data Transformation & Analytics Layer
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/dbt/dbt-icon.svg" width="45"/> </div>
+Databases & Storage
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/> </div>
+Cloud & Platforms (Foundational)
+<div align="center"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45"/> </div>
+Machine Learning (Data Consumer Perspective)
+<div align="center"> <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/> </div>
+Version Control & Dev Tools
+<div align="center"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="45"/> </div>
+💼 Skills (Refinadas para Data Engineer)
 
-### **Data Engineering & Analytics Tools**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-</div>
+Data Processing: Pandas, PySpark, Spark SQL
 
-### **Machine Learning (Data Consumer Perspective)**
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
-</div>
+Big Data Platforms: Databricks, Apache Spark
+
+Orchestration: Apache Airflow (DAGs, scheduling, dependencies)
+
+Streaming (Foundational): Apache Kafka
+
+Transformations: dbt (analytics engineering mindset)
+
+Databases: PostgreSQL, MySQL, SQLite
+
+Cloud Basics: AWS / GCP (storage, compute concepts)
+
+Programming: Python, SQL
+
+Version Control: Git, GitHub
 
 ---
 
