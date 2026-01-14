@@ -6,8 +6,6 @@
 
 ---
 
-# 🌐 English Version
-
 ## 👨‍💻 About Me
 
 - 🎓 **Software Engineer (Program completed – degree pending)**  
@@ -78,8 +76,6 @@
 - Strong focus on **data quality, consistency, and interpretability**
 
 ---
-
-# 🇪🇸 Versión en Español
 
 ## 👨‍💻 Sobre mí
 
