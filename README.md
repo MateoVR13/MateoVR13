@@ -1,7 +1,7 @@
 # 👋 Mateo Vergara Roa
 
 <div align="center">
-  <img src="https://ceitech.cloud/static/PFPMVR.png" width="90%"/>
+  <img src="https://ceitech.cloud/static/PFPMVR.png" width="30%"/>
 </div>
 
 ---
