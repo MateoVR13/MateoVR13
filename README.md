@@ -11,7 +11,7 @@
 - 🎓 **Software Engineer (Program completed – degree pending)**  
 - 🛠️ **Junior Data Engineer** with hands-on experience building data pipelines for real datasets  
 - 🔄 Focused on **ETL/ELT workflows**, data modeling, and analytics-ready data layers  
-- 📊 Background in applied Machine Learning and data-driven research (3 published articles)  
+- 📊 Background in applied Machine Learning and data-driven research 
 - 💻 Strong proficiency in **Python** and **SQL** for data processing and automation  
 - 🌍 Fluent English (technical & professional)
 
@@ -82,7 +82,7 @@
 - 🎓 **Ingeniero de Software (programa finalizado – grado pendiente)**  
 - 🛠️ **Data Engineer Junior** con experiencia práctica en pipelines de datos  
 - 🔄 Enfocado en **procesos ETL/ELT**, modelado de datos y capas analíticas  
-- 📊 Experiencia en Machine Learning aplicado y datos reales (3 artículos publicados)  
+- 📊 Experiencia en Machine Learning aplicado y datos reales  
 - 💻 Dominio sólido de **Python** y **SQL**  
 - 🌍 Inglés avanzado (técnico y profesional)
 
