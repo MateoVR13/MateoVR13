@@ -12,8 +12,6 @@
 - Cloud-native infrastructure (**AWS** / **GCP**) optimized for EdTech scale, reliability, and global accessibility
 - Driving innovation in educational technology: integrations, real-time features, and user experience optimization
 
-Fluent technical & professional English
-
 ---
 
 ## Versión en Español
@@ -29,5 +27,3 @@ Fluent technical & professional English
 - Mentoría de equipos de ingeniería, promoción de mejores prácticas en calidad de código, entrega ágil y mejora continua
 - Infraestructura cloud-native (**AWS** / **GCP**) optimizada para escala EdTech, confiabilidad y accesibilidad global
 - Impulso de innovación en tecnología educativa: integraciones, funcionalidades en tiempo real y optimización de experiencia de usuario
-
-Inglés fluido técnico y profesional
