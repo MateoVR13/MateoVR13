@@ -1,7 +1,5 @@
 ## English Version
 **Mateo Vergara Roa**  
-**Head of Engineering - EdTech**  
-**CTO at YedaTech LATAM** (EdTech + Automation)
 
 **Core expertise:**
 - Technical leadership and architecture of scalable **learning platforms**, LMS, and educational products
@@ -16,8 +14,6 @@
 
 ## Versión en Español
 **Mateo Vergara Roa**  
-**Head of Engineering EdTech** / **Jefe de Ingeniería EdTech**  
-**CTO en YedaTech LATAM** (EdTech + Automatización)
 
 **Expertise principal:**
 - Liderazgo técnico y arquitectura de **plataformas de aprendizaje** escalables, LMS y productos educativos
