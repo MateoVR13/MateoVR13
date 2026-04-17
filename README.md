@@ -1,7 +1,7 @@
 **Mateo Vergara Roa**  
 
 **Expertise principal:**
-- Liderazgo técnico y arquitectura de **plataformas de aprendizaje** escalables, LMS y productos educativos
+- Arquitectura de **plataformas de aprendizaje** escalables, LMS y productos educativos
 - Desarrollo end-to-end de funcionalidades centradas en el usuario EdTech (entrega de contenido, herramientas interactivas, aprendizaje adaptativo, gamificación)
 - Construcción de software educativo de alto rendimiento, accesible y seguro para usuarios diversos (estudiantes, docentes, instituciones)
 - Colaboración interfuncional con equipos de producto, diseño, contenido y pedagogía para alinear tecnología con impacto educativo
