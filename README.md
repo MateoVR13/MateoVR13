@@ -1,5 +1,7 @@
 **Mateo Vergara Roa**  
 
+| EdTech Architect | Learning Systems | Automation | AI-Native Automation | Micro-Learning Modules |
+
 **Expertise principal:**
 - Arquitectura de **plataformas de aprendizaje** escalables, LMS y productos educativos
 - Desarrollo end-to-end de funcionalidades centradas en el usuario EdTech (entrega de contenido, herramientas interactivas, aprendizaje adaptativo, gamificación)
